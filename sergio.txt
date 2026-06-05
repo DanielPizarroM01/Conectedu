@@ -1,0 +1,4 @@
+Nombre: Sergio Aldair Carrillo Lome
+Edad: 27
+Fecha de Nacimiento: 27/09/1999
+Color fav: Morado
