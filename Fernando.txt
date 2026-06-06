@@ -1,4 +1,4 @@
 Nombre: Fernando Torres Zonahua
 Edad: 21 años
-Fecha de nacimiento: 29-Junio-2004
+Fecha de nacimiento: 29-Junio-2002
 Color favorito: Azul
